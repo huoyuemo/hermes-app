@@ -19,7 +19,6 @@
         android:strokeColor="#1a1a2e"
         android:strokeWidth="1" />
     <path
-        android:fillColor="#00d4aa"
         android:pathData="M20,50 C20,32 40,15 54,15 C68,15 88,32 88,50"
         android:strokeColor="#00d4aa"
         android:strokeWidth="3"
